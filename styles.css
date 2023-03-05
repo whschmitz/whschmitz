@@ -1,0 +1,48 @@
+body {
+	background-color: floralwhite;
+}
+
+h1 {
+	font-family: Garamond;
+
+	text-align: center;
+	background-color: #4986C7;
+	color: white;
+}
+
+nav {
+	text-align: center;
+	color: black;
+	padding: 5px;
+	font-family: serif;
+	background-color: lightgray;
+	border: 0.75px solid;
+}
+
+p {
+	text-align: center;
+	font-family: verdana;
+}
+
+h2 {
+
+	font-family: serif;
+	color: darkred;
+}
+
+h3 {
+	font-family: verdana;
+	text-align: center;
+}
+
+ul {
+	font-family: verdana;
+	background-color: lightgray;
+	border: 0.75px solid;
+	color: black;
+}
+
+li {
+	display: inline;
+	padding: 20px;
+}
