@@ -12,13 +12,14 @@ h1 {
 }
 
 menu {
-	
+
 	list-style-type: none;
 	color: black;
 	padding: 5px;
 	font-family: serif;
 	background-color: lightgray;
 	border: 0.75px solid;
+	font font-family: open sans;
 }
 
 p {
