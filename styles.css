@@ -51,3 +51,7 @@ ul {
 img {
 	padding: 30px,10px,10px,10px;
 }
+
+dt {
+	font-weight: bold;
+}
