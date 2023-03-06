@@ -11,8 +11,9 @@ h1 {
 	font size: 50px;
 }
 
-nav {
-	text-align: center;
+menu {
+	
+	list-style-type: none;
 	color: black;
 	padding: 5px;
 	font-family: serif;
